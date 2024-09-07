@@ -1,6 +1,6 @@
 {
-  "name": "llm-agents/prompt-generator",
-  "description": "Prompt generator for LLM agents with interceptors",
+  "name": "llm-agents/vector-storage",
+  "description": "Vector storage for LLM Agents",
   "license": "MIT",
   "require": {
     "php": "^8.3",
